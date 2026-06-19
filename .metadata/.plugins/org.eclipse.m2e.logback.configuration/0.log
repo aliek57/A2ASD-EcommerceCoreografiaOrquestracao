@@ -462,3 +462,40 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact br.edu.utfpr.
 2026-06-19 01:34:51,107 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
 2026-06-19 01:36:21,437 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2026-06-19 01:36:21,463 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:36:21,538 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2026-06-19 01:48:36,235 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.utfpr.td.tsi:ecommerce.loja:0.0.1-SNAPSHOT @ C:\Users\Particular\Desktop\A2ASD\ecommerce.loja\pom.xml.
+2026-06-19 01:48:36,777 [Worker-45: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecommerce.pagamento: br.edu.utfpr.td.tsi:ecommerce.produtos:0.0.1-SNAPSHOT with classifier  to /ecommerce.pagamento/target/classes
+2026-06-19 01:48:38,057 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:48:38,059 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:48:38,063 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2026-06-19 01:48:50,817 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-06-19 01:48:55,597 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.utfpr.td.tsi:ecommerce.loja:0.0.1-SNAPSHOT @ C:\Users\Particular\Desktop\A2ASD\ecommerce.loja\pom.xml.
+2026-06-19 01:48:55,954 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecommerce.pagamento: br.edu.utfpr.td.tsi:ecommerce.produtos:0.0.1-SNAPSHOT with classifier  to /ecommerce.pagamento/target/classes
+2026-06-19 01:48:56,094 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.utfpr.td.tsi:ecommerce.produtos:0.0.1-SNAPSHOT @ C:\Users\Particular\Desktop\A2ASD\ecommerce.pagamento\pom.xml.
+2026-06-19 01:48:56,203 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.utfpr.td.tsi:ecommerce.produtos:0.0.1-SNAPSHOT @ C:\Users\Particular\Desktop\A2ASD\ecommerce.produtos\pom.xml.
+2026-06-19 01:48:56,352 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.utfpr.td.tsi:ecommerce.entrega:0.0.1-SNAPSHOT @ C:\Users\Particular\Desktop\A2ASD\ecommerce.entrega\pom.xml.
+2026-06-19 01:48:56,468 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.utfpr.td.tsi:ecommerce.fiscal:0.0.1-SNAPSHOT @ C:\Users\Particular\Desktop\A2ASD\ecommerce.fiscal\pom.xml.
+2026-06-19 01:48:58,266 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce.loja/src/main/java
+2026-06-19 01:48:58,267 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce.loja/src/main/resources
+2026-06-19 01:48:58,267 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce.loja/src/main/resources
+2026-06-19 01:48:58,268 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce.loja/src/test/java
+2026-06-19 01:48:58,268 [Worker-45: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce.loja/src/test/resources
+2026-06-19 01:48:59,324 [Worker-45: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2026-06-19 01:49:00,793 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:00,795 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:00,804 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2026-06-19 01:49:02,013 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:02,014 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:02,016 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2026-06-19 01:49:03,404 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:03,407 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:03,420 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2026-06-19 01:49:08,163 [Worker-46: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/ecommerce.pagamento: br.edu.utfpr.td.tsi:ecommerce.produtos:0.0.1-SNAPSHOT with classifier  to /ecommerce.pagamento/target/classes
+2026-06-19 01:49:08,239 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:08,240 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:08,242 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2026-06-19 01:49:10,651 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:10,652 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:49:10,659 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2026-06-19 01:58:39,370 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-06-19 01:58:39,399 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
