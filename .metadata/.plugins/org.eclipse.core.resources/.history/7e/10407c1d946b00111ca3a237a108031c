@@ -1,0 +1,33 @@
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T18:35:10.713954 ---
+"{\"numeroCartao\":\"123456789\", \"nomeTitular\":\"Teste\", \"valor\":199.90}"
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T18:35:10.723951800 ---
+"{\"numeroCartao\":\"123456789\", \"nomeTitular\":\"Teste\", \"valor\":199.90}"
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T18:35:10.734953100 ---
+"{\"numeroCartao\":\"123456789\", \"nomeTitular\":\"Teste\", \"valor\":-1}"
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T18:35:10.736952700 ---
+"{\"numeroCartao\":\"123456789\", \"nomeTitular\":\"Teste\", \"valor\":199.90}"
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T18:35:10.741968300 ---
+"{\"nomeCliente\":\"Teste\",\"emailCliente\":\"teste@teste.com\",\"cep\":\"85900000\",\"numeroCartao\":\"123456789\",\"itens\":[{\"id\":\"prod-001\",\"nome\":\"Cafeteira Elétrica\",\"preco\":199.90,\"quantidadeEmEstoque\":0},{\"id\":\"prod-002\",\"nome\":\"Fones de Ouvido Bluetooth\",\"preco\":349.50,\"quantidadeEmEstoque\":0}],\"valorTotal\":549.40}"
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T18:35:10.756498 ---
+"{\"nomeCliente\":\"Teste\",\"emailCliente\":\"teste@teste.com\",\"cep\":\"85900000\",\"numeroCartao\":\"123456789\",\"itens\":[{\"id\":\"prod-001\",\"nome\":\"Cafeteira Elétrica\",\"preco\":199.90,\"quantidadeEmEstoque\":0},{\"id\":\"prod-002\",\"nome\":\"Fones de Ouvido Bluetooth\",\"preco\":349.50,\"quantidadeEmEstoque\":0}],\"valorTotal\":549.40}"
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T18:35:10.765493900 ---
+"{\"nomeCliente\":\"Teste\",\"emailCliente\":\"teste@teste.com\",\"cep\":\"85900000\",\"numeroCartao\":\"123456789\",\"itens\":[{\"id\":\"prod-001\",\"nome\":\"Cafeteira Elétrica\",\"preco\":199.90,\"quantidadeEmEstoque\":0},{\"id\":\"prod-002\",\"nome\":\"Fones de Ouvido Bluetooth\",\"preco\":349.50,\"quantidadeEmEstoque\":0}],\"valorTotal\":549.40}"
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T19:05:45.929246800 ---
+{"nomeCliente":"Cliente Teste","emailCliente":"teste@teste.com","cep":"85903320","numeroCartao":"12345678","itens":[{"id":"prod-001","nome":"Cafeteira Elétrica","preco":199.90,"quantidadeEmEstoque":0}],"valorTotal":-2}
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T19:45:54.740865600 ---
+{"nomeCliente":"Cliente Teste","emailCliente":"teste@teste.com","cep":"85903320","numeroCartao":"12345678","itens":[{"id":"prod-001","nome":"Cafeteira Elétrica","preco":199.90,"quantidadeEmEstoque":0}],"valorTotal":-2}
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T21:02:49.748077400 ---
+{"nomeCliente":"Cliente Teste","emailCliente":"teste@teste.com","cep":"85903320","numeroCartao":"12345678","itens":[{"id":"prod-001","nome":"Cafeteira Elétrica","preco":199.90,"quantidadeEmEstoque":0}],"valorTotal":-2}
+
+--- ERRO DE PAGAMENTO REGISTRADO EM: 2026-06-18T23:15:08.164302600 ---
+{"nomeCliente":"Cliente Teste","emailCliente":"teste@teste.com","cep":"85903320","numeroCartao":"12345678","itens":[{"id":"prod-001","nome":"Cafeteira Elétrica","preco":199.90,"quantidadeEmEstoque":0}],"valorTotal":-2}
+

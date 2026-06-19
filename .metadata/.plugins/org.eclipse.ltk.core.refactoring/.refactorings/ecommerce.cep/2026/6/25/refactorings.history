@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;ecommerce.cep&apos;&#x0D;&#x0A;- Original project: &apos;ecommerce.cep&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ecommerce.email&#x0D;&#x0A;     ecommerce.entrega&#x0D;&#x0A;     ecommerce.fiscal&#x0D;&#x0A;     ecommerce.loja&#x0D;&#x0A;     ecommerce.pagamento&#x0D;&#x0A;     ecommerce.produtos" description="Delete elements" element1="ecommerce.pagamento" element2="ecommerce.email" element3="ecommerce.produtos" element4="ecommerce.entrega" element5="ecommerce.loja" element6="ecommerce.fiscal" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="6" stamp="1781841932556" subPackages="false" version="1.0"/>
+</session>
